@@ -23,7 +23,7 @@ public class ShoppingCart {
     }
 
     // Getters and Setters
-    public List<String> getContets() {
+    public List<String> getContents() {
         List<String> list = new LinkedList<String>(contents);
         return list;
     }
